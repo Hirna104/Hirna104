@@ -7,6 +7,7 @@
 
 <footer>
 🎯 About Me
+
 I'm a detail-oriented IT professional with a passion for software development, data analysis, and creating impactful projects. My journey includes hands-on experience in coding, problem-solving, and data visualization — driven by a continuous learning mindset.
 
 🔧 Skills & Technologies
